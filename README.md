@@ -1,7 +1,7 @@
 # Hello
 My name is Juma Mohammed a Computer scientist (professionally) and enthusiast.
 ## Projects 
-[cbesync](https://github.com/MOHAMMEDJUMA573/cbeysnc) : A management system for schools in kenya.
+[cbesync](https://github.com/MOHAMMEDJUMA573/cbesync) : A management system for schools in kenya.
 ## Knowledge Base
 a) Operating Systems
 
